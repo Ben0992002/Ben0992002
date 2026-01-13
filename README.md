@@ -14,11 +14,11 @@ Cette spécialisation me permet de concevoir des systèmes intelligents où l'IA
 
 ---
 
-## 💡 Projet Phare : AgriPredict Pro
-Je mets en pratique cette expertise à travers **AgriPredict Pro**, une plateforme d'aide à la décision pour l'agriculture :
-* **IA & Finance :** Prédiction des rendements et optimisation de la rentabilité.
-* **Sécurité :** Protection des données agricoles sensibles.
-* **Boucle Décisionnelle :** Un système où chaque décision prise sur le terrain sert à affiner la précision de l'IA pour les cycles suivants.
+## 💡 Projet en cours de conception : AgriPredict Pro
+C'est mon projet phare pour l'agriculture à Madagascar. Même si le code est en phase de préparation, les piliers sont déjà définis :
+* **IA & Finance :** Prévoir les récoltes pour mieux gérer l'argent.
+* **Sécurité :** Protéger les données des agriculteurs.
+* **Boucle de Décision :** Un système qui apprend des choix des agriculteurs et des décideurs pour devenir plus précis.
 
 ---
 
